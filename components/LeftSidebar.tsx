@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Layers, Box, Camera, Crop, Home, Grid, ChevronDown, ChevronRight, Edit2, type LucideIcon } from 'lucide-react';
+import { Layers, Box, Camera, Crop, Home, Grid, ChevronDown, type LucideIcon } from 'lucide-react';
 
 interface LeftSidebarProps {
   currentPhase: number;
